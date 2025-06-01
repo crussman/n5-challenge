@@ -1,5 +1,14 @@
 # N5 Challenge
 
+## Index
+
+- [Introduction](#introduction)
+- [Challenge Requirements](#challenge-requirements)
+- [Stack Used](#stack-used)
+- [Instructions to Run Locally with Docker](#instructions-to-run-locally-with-docker)
+- [Notes](#notes)
+- [License](#license)
+
 ## Introduction
 
 This repository contains the solution for the N5 Challenge, which involves building a full-stack application to manage user permissions. The project includes a backend Web API built with ASP.NET Core, a frontend application developed in ReactJS, and containerized services orchestrated using Docker.
