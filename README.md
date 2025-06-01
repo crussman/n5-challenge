@@ -6,7 +6,6 @@
 - [Challenge Requirements](#challenge-requirements)
 - [Stack Used](#stack-used)
 - [Instructions to Run Locally with Docker](#instructions-to-run-locally-with-docker)
-- [Notes](#notes)
 - [License](#license)
 
 ## Introduction
