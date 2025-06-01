@@ -88,10 +88,5 @@ services:
     networks:
       - challenge-net
 
-volumes:
-  nuget-packages:
-  build-cache-bin:
-  build-cache-obj:
-
 networks:
   challenge-net:
